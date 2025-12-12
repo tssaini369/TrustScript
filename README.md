@@ -12,7 +12,25 @@ Transform your WooCommerce product reviews with AI-powered content generation. T
 *   **Auto-Sync:** Daily automatic synchronization ensures no orders are missed, even if the initial trigger fails.
 *   **Analytics Dashboard:** Track review requests, approval rates, pending reviews, and conversion metrics directly from your WordPress admin.
 *   **Media Support:** Backend support for handling photo and video uploads with reviews. (Coming in future updates)
-*   **White-Label Branding:** (Pro/Business Plan) Customize review pages with your logo, colors, and domain.
+*   **White-Label Branding:** (Business Plan) Customize review pages with your logo, colors, and domain.
+
+## 💰 Pricing
+
+TrustScript offers flexible pricing to grow with your business.
+
+| Feature | Free | Pro | Business |
+| :--- | :--- | :--- | :--- |
+| **Price** | **$0** / forever | **$9.99** / month | **$19.99** / month |
+| **Requests** | 10 / month | 300 / month | 1,000 / month |
+| **AI Rewriting** | ✅ | ✅ | ✅ |
+| **Analytics** | Basic | Advanced | Advanced |
+| **Email Templates** | Standard | Custom | Custom |
+| **White-Label** | ❌ | ❌ | ✅ |
+| **Support** | Email | Priority Email | Priority |
+
+*   **Free Plan:** Perfect for testing and small stores. Includes 10 review requests per month.
+*   **Pro Plan:** For growing stores. Includes 300 requests, advanced analytics, and custom email templates.
+*   **Business Plan:** For high-volume stores. Includes 1,000 requests, white-label branding (custom logo/colors), and API access.
 
 ## 📋 Requirements
 

@@ -18,19 +18,19 @@ Transform your WooCommerce product reviews with AI-powered content generation. T
 
 TrustScript offers flexible pricing to grow with your business.
 
-| Feature | Free | Pro | Business |
-| :--- | :--- | :--- | :--- |
-| **Price** | **$0** / forever | **$9.99** / month | **$19.99** / month |
-| **Requests** | 10 / month | 300 / month | 1,000 / month |
-| **AI Rewriting** | ✅ | ✅ | ✅ |
-| **Analytics** | Basic | Advanced | Advanced |
-| **Email Templates** | Standard | Custom | Custom |
-| **White-Label** | ❌ | ❌ | ✅ |
-| **Support** | Email | Priority Email | Priority |
+| Feature | Free | Starter | Pro | Business |
+| :--- | :--- | :--- | :--- | :--- |
+| **Price** | **$0** / forever | **$4.99** / month | **$9.99** / month | **$19.99** / month |
+| **Requests** | 10 / month | 100 / month | 500 / month | 2,000 / month |
+| **AI Rewriting** | Basic | Advanced | Advanced | Advanced |
+| **Analytics** | Basic | Full Dashboard | Advanced | Advanced |
+| **White-Label** | ❌ | ❌ | ✅ | ✅ |
+| **Support** | Email | Priority | Priority | Dedicated |
 
-*   **Free Plan:** Perfect for testing and small stores. Includes 10 review requests per month.
-*   **Pro Plan:** For growing stores. Includes 300 requests, advanced analytics, and custom email templates.
-*   **Business Plan:** For high-volume stores. Includes 1,000 requests, white-label branding (custom logo/colors), and API access.
+*   **Free Plan:** Perfect for testing. Includes 10 review requests/month, AI generation, and basic analytics.
+*   **Starter Plan:** For small stores. Includes 100 requests/month, full analytics, and email automation.
+*   **Pro Plan:** For growing stores. Includes 500 requests/month, custom branding, white-label options, and CSV export.
+*   **Business Plan:** For high-volume stores. Includes 2,000 requests/month, API access, dedicated support, and team collaboration.
 
 ## 📋 Requirements
 
